@@ -1,1 +1,1 @@
-# team_LZA
+# We are team LZA.
