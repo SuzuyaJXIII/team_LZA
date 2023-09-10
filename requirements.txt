@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit_learn
+scipy
+matplotlib
+streamlit
+imblearn
+streamlit-pandas-profiling
+pandas-profiling
+openpyxl
+catboost
+altair
+xgboost
